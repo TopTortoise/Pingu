@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzPnTqrhms4=",
+  "success": true,
+  "projectFilePath": "/home/paulblume/jku/10.semester/async#/Pingu/Pingu.csproj",
+  "expectedPackageFiles": [
+    "/home/paulblume/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/home/paulblume/.nuget/packages/system.linq.async/6.0.1/system.linq.async.6.0.1.nupkg.sha512",
+    "/home/paulblume/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
